@@ -245,6 +245,7 @@ void Lib::show(int i)
                         cout<<"\n\t\tEnter Your Choice : ";
                         cin>>i;
                         fflush(stdin);
+
                         if(i==1)
                             {
                                 system("cls");
